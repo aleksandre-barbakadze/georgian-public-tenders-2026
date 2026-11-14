@@ -6,6 +6,8 @@ A repeatable Python pipeline that turns raw Georgian public procurement data int
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aleksandre-barbakadze/georgian-public-tenders-2026/blob/main/tender_analysis.ipynb)
 
+![Dashboard: signed contracts, contract value, single-bidder share and risk flags](dashboard.png)
+
 ## Why
 Public procurement data is large and raw. Finding tenders in a specific niche and understanding competition and prices takes a lot of manual filtering. This project makes that process systematic and repeatable.
 
